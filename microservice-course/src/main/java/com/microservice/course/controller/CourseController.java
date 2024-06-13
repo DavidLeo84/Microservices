@@ -1,6 +1,4 @@
 package com.microservice.course.controller;
-
-
 import com.microservice.course.dtos.CreateCourseDTO;
 import com.microservice.course.dtos.UpdateCourseDTO;
 import com.microservice.course.entities.Course;
